@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Downloaded model and dataset caches
+.cache/
+.cache/huggingface/
+hf_cache/
+
+# Training outputs and checkpoints
+outputs/
+checkpoints/
+results/
+runs/
+*.pt
+*.pth
+*.safetensors

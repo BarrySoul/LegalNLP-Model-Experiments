@@ -1,0 +1,6 @@
+numpy
+datasets
+transformers
+peft
+torchmetrics
+tqdm
